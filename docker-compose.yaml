@@ -1,0 +1,7 @@
+version: '3'
+services:
+  people-counting-gui:
+    image: pavan0077/people-counting-gui:V1
+    ports:
+      - "6901:6901"
+      - "5901:5901"
