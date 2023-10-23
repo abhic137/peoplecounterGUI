@@ -27,3 +27,9 @@ noVNC HTML client started:
 	=> connect via http://172.18.0.2:6901/?password=...
  ```
 Ctrl + Right click on HTML link
+```
+## APP
+download the IPwebcam app from the pa store and go the start server option to get the first link 
+## INSIDE THE CONTIAINER
+go to the people counting folder and go to mylib folder and edit the config.py folder with the link that we get from the ip webcam from the phone.
+to run the code use the command bash run.sh
